@@ -4,5 +4,5 @@ Olá! Bem vindo ao livro de receitas :dancer:
 
 - Macarrão ao molho branco
 - Pavê
-- Coxinha
+- Bolo de Cenoura
 
